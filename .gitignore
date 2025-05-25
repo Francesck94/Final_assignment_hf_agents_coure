@@ -1,0 +1,8 @@
+test.py
+*.mp3
+*.xlsx
+*.png
+__pycache__/
+f918266a-b3e0-4914-865d-4faa564f1aef.py
+*.env
+answers_*.json
